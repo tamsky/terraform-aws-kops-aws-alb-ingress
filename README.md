@@ -53,6 +53,11 @@ We literally have [*hundreds of terraform modules*][terraform_modules] that are 
 
 ## Usage
 
+
+**IMPORTANT:** The `master` branch is used in `source` just as an example. In your code, do not pin to `master` because there may be breaking changes between releases.
+Instead pin to the release tag (e.g. `?ref=tags/x.y.z`) of one of our [latest releases](https://github.com/cloudposse/terraform-aws-kops-alb-ingress/releases).
+
+
 ```hcl
 module "kops_alb_ingress" {
   source       = "git::https://github.com/cloudposse/terraform-aws-kops-alb-ingress.git?ref=master"
@@ -252,13 +257,14 @@ Check out [our other projects][github], [follow us on twitter][twitter], [apply 
 
 ### Contributors
 
-|  [![Igor Rodionov][goruha_avatar]][goruha_homepage]<br/>[Igor Rodionov][goruha_homepage] | [![Marc Tamsky][tamsky_avatar]][tamsky_homepage]<br/>[Marc Tamsky][tamsky_homepage] |
-|---|---|
 
-  [goruha_homepage]: https://github.com/goruha
-  [goruha_avatar]: https://github.com/goruha.png?size=150
-  [tamsky_homepage]: https://github.com/tamsky
-  [tamsky_avatar]: https://github.com/tamsky.png?size=150
+
+
+
+|  <a href="https://github.com/goruha"><img src="https://github.com/goruha.png" width=150></a><br/><a href="https://github.com/goruha">Igor Rodionov</a> |
+
+
+|  <a href="https://github.com/tamsky"><img src="https://github.com/tamsky.png" width=150></a><br/><a href="https://github.com/tamsky">Marc Tamsky</a> |
 
 
 
