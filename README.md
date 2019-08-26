@@ -261,10 +261,10 @@ Check out [our other projects][github], [follow us on twitter][twitter], [apply 
 
 
 
-|  <a href="https://github.com/goruha"><img src="https://github.com/goruha.png" width=150></a><br/><a href="https://github.com/goruha">Igor Rodionov</a> |
+|  <a href="https://github.com/goruha"><img src="https://github.com/goruha.png" width=150></a><br/> [Igor Rodionov](https://github.com/goruha)</a> |
 
 
-|  <a href="https://github.com/tamsky"><img src="https://github.com/tamsky.png" width=150></a><br/><a href="https://github.com/tamsky">Marc Tamsky</a> |
+|  <a href="https://github.com/tamsky"><img src="https://github.com/tamsky.png" width=150></a><br/> [Marc Tamsky](https://github.com/tamsky)</a> |
 
 
 
